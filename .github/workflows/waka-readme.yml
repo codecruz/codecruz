@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         # this action name
-      - uses: codecruz/waka-readme@main # do NOT replace with anything else
+      - uses: codecruz/codecruz@main # do NOT replace with anything else
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
