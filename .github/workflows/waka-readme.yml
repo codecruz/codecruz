@@ -20,3 +20,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
+          SHOW_SHORT_INFO: "False"
