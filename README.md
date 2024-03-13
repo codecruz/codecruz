@@ -118,3 +118,9 @@ Other                    12 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Codecruz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=codecruz&bg_color=1F222E&color=F8D866&line=175F83&point=FFFFFF&hide_border=false" /></a>
 
+  <div align="right">
+
+_Based on [anmol098](https://github.com/anmol098/anmol098/)'s readme._
+
+</div>
+
