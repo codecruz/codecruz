@@ -26,7 +26,7 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SYMBOL_VERSION: 2
-          SHOW_PROFILE_VIEWS: "True"
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_UPDATED_DATE: "True"
           
 
