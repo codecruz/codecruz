@@ -15,14 +15,12 @@
 💡 Passion for creating efficient and high-quality code.
 </p>
 
-
 <h2 align="center">
 
 ⚡ Tech Stack / Skills / Tools
 
 </h2>
 
----
 
 <div align="center">
 
@@ -73,6 +71,19 @@
 
 ---
 
+<div align="center">
+  
+<a href="">
+  <img height=280 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=codecruz&langs_count=10&card_width=600&display_format=percent" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=codecruz&theme=nightfox&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" />
+</a>
+
+</div>
+
+---
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
 
@@ -115,8 +126,13 @@ Other                    12 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Codecruz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=codecruz&bg_color=1F222E&color=F8D866&line=175F83&point=FFFFFF&hide_border=false" /></a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=codecruz&bg_color=1F222E&color=F8D866&line=175F83&point=FFFFFF&hide_border=false" />
+
+
+
+
+
 
   <div align="right">
 
