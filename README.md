@@ -86,6 +86,12 @@ CSS                      20 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Last Updated on 07/02/2024 01:11:46 UTC
 <!--END_SECTION:waka-->
 
+<div align="center">
+  <picture>
+  <img src="https://wakatime.com/share/@018d17ca-d75c-47f2-98ce-c011da54bc59/288543f6-c7ae-434e-ab82-bcdc89c322e8.svg" alt="👋" width="600px" height="auto";>
+</picture>
+</div>
+
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Codecruz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=codecruz&bg_color=1F222E&color=F8D866&line=175F83&point=FFFFFF&hide_border=false" /></a>
 </p>
