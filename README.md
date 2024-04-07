@@ -46,6 +46,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-200-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -81,7 +83,7 @@ JSON                     20 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 02/02/2024 07:43:24 UTC
+ Last Updated on 02/02/2024 07:44:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
