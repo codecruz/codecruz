@@ -9,7 +9,7 @@
   🛠️ Full-stack dev from the south of Spain.
 </p>
 <p align="center">
-📃 Specialized in large data migrations.
+📃 Specialized in large data migrations and scraping.
 </p>
 <p align="center">
 💡 Passion for creating efficient and high-quality code.
