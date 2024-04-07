@@ -1,5 +1,11 @@
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi!+I'm+Cruz;🛠️+Full-stack+dev+from+the+south+of+Spain;📃+Specialized+in+large+data+migrations;🧠+Passion+for+creating+efficient+and+HQ+code&font=Fira%20Code&center=true&width=800&height=45&color=175F83&vCenter=true&pause=1000&size=25" />
+<h2 align="center">
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25" height="25">
+</picture> Hi! I'm Cruz
+</h2>
+<p>
+"🛠️ Full-stack dev from the south of Spain; 📃 Specialized in large data migrations; 🧠 Passion for creating efficient and HQ code."
 </p>
 <h2 align="center">
   💻 Tech Stack / Skills:
