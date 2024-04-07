@@ -22,7 +22,7 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_PROFILE_VIEWS: "False"
           TIME_RANGE: "all_time"
-          CODE_LANG: "PHP"
+          CODE_LANG: "php"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_OS: "False"
           SHOW_EDITORS: "False"
