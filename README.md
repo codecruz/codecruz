@@ -47,7 +47,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue)
 
 **I'm an Early 🐤** 
 
@@ -84,7 +84,7 @@ JavaScript               17 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 13/02/2024 12:15:39 UTC
+ Last Updated on 14/02/2024 01:13:51 UTC
 <!--END_SECTION:waka-->
 
 
