@@ -21,3 +21,6 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_PROFILE_VIEWS: "False"
+          TIME_RANGE: "all_time"
+          CODE_LANG: php
+
