@@ -46,7 +46,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2010%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -101,7 +101,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2024 22:40:10 UTC
+ Last Updated on 25/01/2024 01:20:44 UTC
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
