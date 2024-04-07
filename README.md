@@ -15,7 +15,13 @@
 💡 Passion for creating efficient and high-quality code.
 </p>
 
-## ⚡ Tech Stack / Skills:
+---
+
+<h2 align="center">
+
+⚡ Tech Stack / Skills:
+
+</h2>
 
 <div align="center">
   
