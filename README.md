@@ -21,6 +21,7 @@
   
 ![PHP](https://img.shields.io/badge/-PHP-232531?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-ffe66a?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-whitesmoke?style=flat&logo=bootstrap)
