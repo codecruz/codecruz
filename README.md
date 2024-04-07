@@ -88,7 +88,7 @@ CSS                      20 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <div align="center">
   <picture>
-  <img src="https://wakatime.com/share/@018d17ca-d75c-47f2-98ce-c011da54bc59/288543f6-c7ae-434e-ab82-bcdc89c322e8.svg" alt="👋" width="600px" height="auto";>
+  <img src="https://wakatime.com/share/@018d17ca-d75c-47f2-98ce-c011da54bc59/d33815ac-9392-405e-b8eb-8be81002a6ea.svg" alt="👋" width="600px" height="auto";>
 </picture>
 </div>
 
