@@ -127,7 +127,7 @@ JavaScript               1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=codecruz&bg_color=1F222E&color=F8D866&line=175F83&point=FFFFFF&hide_border=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=codecruz&bg_color=1F222E&color=F8D866&line=175F83&point=FFFFFF&hide_border=false&v8" />
 
 
 
