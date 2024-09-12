@@ -20,6 +20,7 @@ jobs:
           BLOCKS: "⬜🟨🟩"
           LANG_COUNT: "7"
           TIME_RANGE: "last_30_days"
+          SHOW_TIME: "false"
 
           
 
