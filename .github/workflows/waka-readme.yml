@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         # this action name
-      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+      - uses: athul/waka-readme@8539bedb8277066fc9fe1b47d1f9b108eb866494
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
@@ -28,6 +28,7 @@ jobs:
           SYMBOL_VERSION: 2
           SHOW_PROFILE_VIEWS: "False"
           SHOW_UPDATED_DATE: "True"
+          BLOCKS: "⬜🟨🟩"
           
           
 
