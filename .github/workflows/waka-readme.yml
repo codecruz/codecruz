@@ -28,8 +28,6 @@ jobs:
           SYMBOL_VERSION: 2
           SHOW_PROFILE_VIEWS: "False"
           SHOW_UPDATED_DATE: "True"
-          INPUT_COMMIT_USERNAME: "codecruz"
-          INPUT_COMMIT_EMAIL: "onewill.sp@gmail.com"
           BLOCKS: "⬜🟨🟩"
           
           
