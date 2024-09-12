@@ -30,5 +30,7 @@ jobs:
           SHOW_UPDATED_DATE: "True"
           INPUT_COMMIT_USERNAME: "codecruz"
           INPUT_COMMIT_EMAIL: "onewill.sp@gmail.com"
+          BLOCKS: "⬜🟨🟩"
+          
           
 
