@@ -106,12 +106,3 @@ Other                        ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 
 
-
-
-
-  <div align="right">
-
-_Based on [anmol098](https://github.com/anmol098/anmol098/)'s readme._
-
-</div>
-
