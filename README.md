@@ -87,6 +87,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codecruz&theme=gruvbox" alt="Gráfico de repositorios por lenguaje" width="40%">
 </div>
 
+  <br/>
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codecruz&theme=gruvbox-duo&hide_border=false)<br/>
 
