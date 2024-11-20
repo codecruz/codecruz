@@ -75,14 +75,26 @@
 
 <div align="center">
   
-<a href="">
-  <img height=240 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=codecruz&langs_count=10&card_width=270&display_format=percent&hide_title=true" />
-</a>
+
+<p  align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=codecruz&theme=calm&hide_border=false)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecruz&theme=gruvbox)
+
+</p>
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codecruz&langs_count=10&card_width=270&display_format=percent&hide_title=true" alt="Gráfico de commits por lenguaje" width="40%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codecruz&theme=gruvbox" alt="Gráfico de repositorios por lenguaje" width="40%">
+</div>
+
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=codecruz&theme=gruvbox-duo&hide_border=false)<br/>
 
 
 </div>
+
+
+
 
 ---
 
