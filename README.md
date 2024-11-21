@@ -2,8 +2,12 @@
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25" height="25">
-</picture> Hi! I'm Cruz
+</picture> Hi! I'm Cruz 
+
+&nbsp;  [<img src="https://img.shields.io/badge/codecruz.mt@gmail.com-blue?logo=gmail">](mailto:codecruz.mt@gmail.com)
+
 </h2>
+
 
 <p align="center">
   🛠️ Full-stack dev from the south of Spain.
