@@ -39,8 +39,6 @@
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 [![XML](https://custom-icon-badges.demolab.com/badge/XML-896C05.svg?logo=code-1&logoColor=white)](#)
 
-?logo=xml-1
-
 ### Frameworks and Libraries
 [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
