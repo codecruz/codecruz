@@ -37,8 +37,9 @@
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-[![XML](https://img.shields.io/badge/XML-darkslategrey?logoColor=2396f3)](#)
+[![XML](https://custom-icon-badges.demolab.com/badge/XML-896C05.svg?logo=code-1&logoColor=white)](#)
 
+?logo=xml-1
 
 ### Frameworks and Libraries
 [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
