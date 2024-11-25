@@ -90,7 +90,7 @@
 
   <br/>
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=codecruz&theme=gruvbox-duo&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codecruz&theme=gruvbox-duo&hide_border=false&exclude_days=Sat,Sun)<br/>
 
 
 </div>
