@@ -50,10 +50,10 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
 ### Data Processing and Integration
-[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-FFECA1?logo=data-etl&logoColor=000000)](#)
+[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
 [![NumPy](https://custom-icon-badges.demolab.com/badge/NumPy-FFDE59?logo=numpy-logo&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](#)
-[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=graph-ma&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)
 [![Google Apps Script](https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-4285F4?logo=google_script_apps_logo_icon_159351&logoColor=white)](#)
 
