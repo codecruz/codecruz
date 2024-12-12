@@ -73,15 +73,19 @@
 </div>
 
 ---
+<table align="center">
+  <tr>
+    <td align="center" width="45%">
+       <img width="100%" src="https://gh-readme-profile.vercel.app/api?username=codecruz&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" alt="codecruz" />
+    </td>
+    <td align="center" width="55%">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecruz&theme=2077" alt="codecruz" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   
-
-<p  align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecruz&theme=gruvbox)
-
-</p>
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codecruz&langs_count=10&card_width=270&display_format=percent&hide_title=true" alt="Gráfico de commits por lenguaje" width="40%">
@@ -90,12 +94,8 @@
 
   <br/>
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=codecruz&theme=gruvbox-duo&hide_border=false&exclude_days=Sat,Sun)<br/>
-
 
 </div>
-
-
 
 
 ---
