@@ -36,8 +36,7 @@
 Here are some of my latest contributions on GitHub:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/codecruz/gitstats-dashboard/pull/20) in [codecruz/gitstats-dashboard](https://github.com/codecruz/gitstats-dashboard)
-2. 🎉 Merged PR [#19](https://github.com/codecruz/gitstats-dashboard/pull/19) in [codecruz/gitstats-dashboard](https://github.com/codecruz/gitstats-dashboard)
+
 <!--END_SECTION:activity-->
 
 ---
