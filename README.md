@@ -9,12 +9,9 @@
 </h2>
 
 
-<p align="center">
-
 🛠️ Full-stack developer from the south of Spain, specializing in PHP, Python, and JavaScript. With a strong focus on APIs, ETL tools, and data migration, I excel in creating efficient and high-quality solutions. Passionate about large-scale data processing and GIS technologies, I bring a meticulous approach to crafting robust systems that drive meaningful results. 📃
 
 🌟 Latest Contributions
-Here are some of my latest contributions on GitHub:
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#20](https://github.com/codecruz/gitstats-dashboard/pull/20) in [codecruz/gitstats-dashboard](https://github.com/codecruz/gitstats-dashboard)
@@ -23,10 +20,6 @@ Here are some of my latest contributions on GitHub:
 4. 💪 Opened PR [#97](https://github.com/php/doc-es/pull/97) in [php/doc-es](https://github.com/php/doc-es)
 5. ❌ Closed PR [#7143](https://github.com/bluesky-social/social-app/pull/7143) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
 <!--END_SECTION:activity-->
-
-</p>
-
-
 
 ## 🛠️ Tech Stack
 
