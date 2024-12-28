@@ -32,6 +32,9 @@
 | **⚙️ Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat&logo=wordpress&logoColor=white) ![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=flat&logo=drupal&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) |
 | **🖋️ IDEs & Editors**    | ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=flat) ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=flat&logo=sublime-text&logoColor=white) |
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ---
 <table align="center">
