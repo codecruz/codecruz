@@ -11,7 +11,7 @@
 
 🛠️ Full-stack developer from the south of Spain, specializing in PHP, Python, and JavaScript. With a strong focus on APIs, ETL tools, and data migration, I excel in creating efficient and high-quality solutions. Passionate about large-scale data processing and GIS technologies, I bring a meticulous approach to crafting robust systems that drive meaningful results. 📃
 
-🌟 Latest Contributions
+## 🌟 Latest Contributions
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#20](https://github.com/codecruz/gitstats-dashboard/pull/20) in [codecruz/gitstats-dashboard](https://github.com/codecruz/gitstats-dashboard)
@@ -21,7 +21,11 @@
 5. ❌ Closed PR [#7143](https://github.com/bluesky-social/social-app/pull/7143) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
 <!--END_SECTION:activity-->
 
+<div align="center">
+  
 ## 🛠️ Tech Stack
+
+</div>
 
 | **Category**             | **Technologies**                                                                 |
 |--------------------------|----------------------------------------------------------------------------------|
@@ -32,7 +36,7 @@
 | **⚙️ Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat&logo=wordpress&logoColor=white) ![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=flat&logo=drupal&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) |
 | **🖋️ IDEs & Editors**    | ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=flat) ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=flat&logo=sublime-text&logoColor=white) |
 
----
+
 <table align="center">
   <tr>
     <td align="center" width="45%">
@@ -50,15 +54,15 @@
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codecruz&langs_count=10&card_width=270&display_format=percent&hide_title=true" alt="Gráfico de commits por lenguaje" width="40%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codecruz&theme=gruvbox" alt="Gráfico de repositorios por lenguaje" width="40%">
-</div>
-
-  <br/>
-  
+</div>  
 
 </div>
 
+<div align="center">
 
----
+## 💻 Code Crafting
+
+</div>
 
 <!--START_SECTION:waka-->
 
