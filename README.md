@@ -36,8 +36,8 @@
 Here are some of my latest contributions on GitHub:
 
 <!--START_SECTION:activity-->
-4. 💪 Opened PR [#97](https://github.com/php/doc-es/pull/97) in [php/doc-es](https://github.com/php/doc-es)
-5. ❌ Closed PR [#7143](https://github.com/bluesky-social/social-app/pull/7143) in [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
+1. 🎉 Merged PR [#20](https://github.com/codecruz/gitstats-dashboard/pull/20) in [codecruz/gitstats-dashboard](https://github.com/codecruz/gitstats-dashboard)
+2. 🎉 Merged PR [#19](https://github.com/codecruz/gitstats-dashboard/pull/19) in [codecruz/gitstats-dashboard](https://github.com/codecruz/gitstats-dashboard)
 <!--END_SECTION:activity-->
 
 ---
