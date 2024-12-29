@@ -47,8 +47,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
   
 
 <div style="display: flex; justify-content: center;">
