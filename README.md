@@ -49,7 +49,7 @@
 </table>
   
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codecruz&langs_count=10&card_width=270&display_format=percent&hide_title=true" alt="Gráfico de commits por lenguaje" width="40%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codecruz&theme=gruvbox" alt="Gráfico de repositorios por lenguaje" width="40%">
 </div>  
