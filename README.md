@@ -4,12 +4,11 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25" height="25">
 </picture> Hi! I'm Cruz 
 
-&nbsp;  [<img src="https://img.shields.io/badge/codecruz.mt@gmail.com-blue?logo=gmail">](mailto:codecruz.mt@gmail.com)
-
+&nbsp;  [<img src="https://img.shields.io/badge/codecruz.mt@gmail.com-blue?logo=gmail">](mailto:codecruz.mt@gmail.com) 
 </h2>
 
 
-🛠️ Full-stack developer from the south of Spain, specializing in PHP, Python, and JavaScript. With a strong focus on APIs, ETL tools, and data migration, I excel in creating efficient and high-quality solutions. Passionate about large-scale data processing and GIS technologies, I bring a meticulous approach to crafting robust systems that drive meaningful results. 📃
+🛠️ Full-stack developer from the south of Spain, specializing in PHP, Python, and JavaScript. With a strong focus on APIs, ETL tools, and data migration, I excel in creating efficient and high-quality solutions. Passionate about large-scale data processing and GIS technologies, I bring a meticulous approach to crafting robust systems that drive meaningful results. 📃 
 
 ## 🌟 Latest Contributions
 
@@ -82,8 +81,6 @@ Git Config                        🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 
 <p align="right">
-
-![](https://visitcount.itsvg.in/api?id=codecruz&icon=0&color=0)
-
+  <img src="https://komarev.com/ghpvc/?username=codecruz" alt="visit counter">
 </p>
 
