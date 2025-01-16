@@ -13,11 +13,11 @@
 ## 🌟 Latest Contributions
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/ridemountainpig/github-colorful-contribution-graph/pull/3) in [ridemountainpig/github-colorful-contribution-graph](https://github.com/ridemountainpig/github-colorful-contribution-graph)
-2. 🎉 Merged PR [#20](https://github.com/codecruz/gitstats-dashboard/pull/20) in [codecruz/gitstats-dashboard](https://github.com/codecruz/gitstats-dashboard)
-3. 🎉 Merged PR [#19](https://github.com/codecruz/gitstats-dashboard/pull/19) in [codecruz/gitstats-dashboard](https://github.com/codecruz/gitstats-dashboard)
-4. 🎉 Merged PR [#18](https://github.com/codecruz/gitstats-dashboard/pull/18) in [codecruz/gitstats-dashboard](https://github.com/codecruz/gitstats-dashboard)
-5. 💪 Opened PR [#97](https://github.com/php/doc-es/pull/97) in [php/doc-es](https://github.com/php/doc-es)
+1. 🎉 Merged PR [#1](https://github.com/codecruz/hirakata/pull/1) in [codecruz/hirakata](https://github.com/codecruz/hirakata)
+2. 💪 Opened PR [#1](https://github.com/codecruz/hirakata/pull/1) in [codecruz/hirakata](https://github.com/codecruz/hirakata)
+3. 💪 Opened PR [#3](https://github.com/ridemountainpig/github-colorful-contribution-graph/pull/3) in [ridemountainpig/github-colorful-contribution-graph](https://github.com/ridemountainpig/github-colorful-contribution-graph)
+4. 🎉 Merged PR [#20](https://github.com/codecruz/gitstats-dashboard/pull/20) in [codecruz/gitstats-dashboard](https://github.com/codecruz/gitstats-dashboard)
+5. 🎉 Merged PR [#19](https://github.com/codecruz/gitstats-dashboard/pull/19) in [codecruz/gitstats-dashboard](https://github.com/codecruz/gitstats-dashboard)
 <!--END_SECTION:activity-->
 
 <div align="center">
