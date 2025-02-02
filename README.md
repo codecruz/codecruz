@@ -13,11 +13,11 @@
 ## 🌟 Latest Contributions
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/codecruz/hirakata/pull/2) in [codecruz/hirakata](https://github.com/codecruz/hirakata)
-2. 💪 Opened PR [#2](https://github.com/codecruz/hirakata/pull/2) in [codecruz/hirakata](https://github.com/codecruz/hirakata)
-3. 🎉 Merged PR [#1](https://github.com/codecruz/hirakata/pull/1) in [codecruz/hirakata](https://github.com/codecruz/hirakata)
-4. 💪 Opened PR [#1](https://github.com/codecruz/hirakata/pull/1) in [codecruz/hirakata](https://github.com/codecruz/hirakata)
-5. 💪 Opened PR [#3](https://github.com/ridemountainpig/github-colorful-contribution-graph/pull/3) in [ridemountainpig/github-colorful-contribution-graph](https://github.com/ridemountainpig/github-colorful-contribution-graph)
+1. 🎉 Merged PR [#3](https://github.com/codecruz/hirakata/pull/3) in [codecruz/hirakata](https://github.com/codecruz/hirakata)
+2. 💪 Opened PR [#3](https://github.com/codecruz/hirakata/pull/3) in [codecruz/hirakata](https://github.com/codecruz/hirakata)
+3. 🎉 Merged PR [#2](https://github.com/codecruz/hirakata/pull/2) in [codecruz/hirakata](https://github.com/codecruz/hirakata)
+4. 💪 Opened PR [#2](https://github.com/codecruz/hirakata/pull/2) in [codecruz/hirakata](https://github.com/codecruz/hirakata)
+5. 🎉 Merged PR [#1](https://github.com/codecruz/hirakata/pull/1) in [codecruz/hirakata](https://github.com/codecruz/hirakata)
 <!--END_SECTION:activity-->
 
 <div align="center">
