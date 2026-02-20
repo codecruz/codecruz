@@ -64,8 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                   💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮·······   72.96 %
-Bash                     💮💮💮💮💮💮💮··················   27.04 %
+Python                   💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮   100.00 %
 ```
 
 <!--END_SECTION:waka-->
