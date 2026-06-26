@@ -39,9 +39,9 @@
       </p>
     </td>
     <td align="center" width="50%" valign="top">
-      <h3>🈁 HiraKata</h3>
-      <a href="https://hirakata-alpha.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-hirakata--alpha.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="HiraKata live demo">
+      <h3>👻✏️ Kana~boo</h3>
+      <a href="https://www.kana-boo.com/">
+        <img src="https://img.shields.io/badge/Live%20Site-kana--boo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Kana~boo live site">
       </a>
       <br/>
       <img src="https://img.shields.io/badge/Status-🚧%20In%20Development-F9A825?style=flat-square">
