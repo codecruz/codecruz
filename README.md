@@ -8,10 +8,11 @@
 </h2>
 
 
-🛠️ Full-stack developer from the south of Spain, specializing in PHP, Python, and JavaScript. With a strong focus on APIs, ETL tools, and data migration, I excel in creating efficient and high-quality solutions. Passionate about large-scale data processing and GIS technologies, I bring a meticulous approach to crafting robust systems that drive meaningful results. 📃 
-
+🛠️  Full-stack developer from southern Spain, happiest knee-deep in data. I specialize in APIs, ETL and data migration (PHP · Python · JavaScript), with a soft spot for large-scale processing, GIS and web scraping. After hours I build things I'd actually use: [**Kana-Boo**](https://kana-boo.com), to learn Japanese, and [**AniFit**](https://anifit-livid.vercel.app), a fitness diary that turns your training into anime character progression. Quality over quantity, always. 
+  
 <div align="center">
-
+<a href='https://ko-fi.com/D4S522CGYR' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  
 ## 🚀 Personal Projects
 
 <table>
