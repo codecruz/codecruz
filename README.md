@@ -2,13 +2,15 @@
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25" height="25">
-</picture> Hi! I'm Cruz 
-
-&nbsp;  [<img src="https://img.shields.io/badge/codecruz.mt@gmail.com-blue?logo=gmail">](mailto:codecruz.mt@gmail.com) 
+</picture> Hi! I'm codecruz
 </h2>
 
+<p align="center">
+  <a href="mailto:codecruz.mt@gmail.com"><img src="https://img.shields.io/badge/codecruz.mt@gmail.com-blue?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-🛠️  Full-stack developer from southern Spain, happiest knee-deep in data. I specialize in APIs, ETL and data migration (PHP · Python · JavaScript), with a soft spot for large-scale processing, GIS and web scraping. After hours I build things I'd actually use: [**Kana-Boo**](https://kana-boo.com), to learn Japanese, and [**AniFit**](https://anifit-livid.vercel.app), a fitness diary that turns your training into anime character progression. Quality over quantity, always. 
+
+🛠️  Full-stack developer from southern Spain, happiest knee-deep in data. I specialize in APIs, ETL and data migration (PHP · Python · JavaScript), with a soft spot for large-scale processing, GIS and web scraping. After hours I build things I'd actually use: [**Kana-Boo**](https://kana-boo.com), to learn Japanese, and [**AniFit**](https://anifit-livid.vercel.app), a fitness diary that turns your training into anime character progression. Lately I spend a lot of time where backend meets LLMs: MCP servers, RAG and agents that know when to hand work to a local model. Quality over quantity, always.
   
 <div align="center">
 <a href='https://ko-fi.com/D4S522CGYR' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
@@ -42,29 +44,180 @@
     <td align="center" width="50%" valign="top">
       <h3>👻✏️ Kana~boo</h3>
       <a href="https://www.kana-boo.com/">
-        <img src="https://img.shields.io/badge/Live%20Site-kana--boo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Kana~boo live site">
+        <img src="https://img.shields.io/badge/Live%20Site-kana--boo.com-000000?style=for-the-badge&logoColor=white" alt="Kana~boo live site">
       </a>
       <br/>
-      <img src="https://img.shields.io/badge/Status-🚧%20In%20Development-F9A825?style=flat-square">
+      <img src="https://img.shields.io/badge/Status-🟢%20Live%20%26%20growing-2EA043?style=flat-square">
       <p>
-        An app to learn Japanese <b>Hiragana & Katakana</b>. Includes complete
-        reference charts (basics, dakuten, handakuten & combinations), random
-        recognition quizzes and a <b>Reverse Mode</b> (Romaji → Kana) to practice
-        recall. Fully multilingual (🇪🇸 ES / 🇬🇧 EN / 🇯🇵 JA) with route-based i18n.
-        Kanji, flashcards and gamification are on the roadmap.
+        Learn Japanese from zero with <b>Boo</b>, a little ghost. It started with
+        <b>Hiragana & Katakana</b> (charts, quizzes and a Romaji → Kana reverse mode) and now
+        covers <b>~2,500 kanji from N5 to N1</b> plus <b>Kotoba</b>: vocabulary and grammar
+        tracks from your first words up to ≈N2, kanji with furigana, stroke tracing
+        practice and <b>spaced-repetition reviews</b>.
+      </p>
+      <p>
+        Fully static and multilingual (🇪🇸 ES / 🇬🇧 EN / 🇯🇵 JA, route-based i18n): every
+        dataset is validated at build time, SEO and analytics are covered by tests, and
+        it uses privacy-friendly analytics.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white">
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+        <img src="https://img.shields.io/badge/Umami-000000?style=flat&logo=umami&logoColor=white">
       </p>
     </td>
   </tr>
 </table>
 
-<sub>⚠️ Both projects are actively under development — features and demos may change.</sub>
+### 🧪 More from the workshop
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛠️ Hefesto</h4>
+      My own dev control panel. A Fastify daemon collects the state of my services, containers, databases and AI subscription usage, and streams it over SSE to a terminal UI (Ink) and a React dashboard.
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧭 Agent orchestrator</h4>
+      Takes a project from first idea to a task breakdown in Notion. Frontier models plan, review and test; clear-cut tasks are delegated to local models depending on difficulty, scope and context size, and the router learns from its own hit/miss history.
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✈️ Planedex</h4>
+      A Pokédex for planes: point your phone at the sky and identify the aircraft flying over you, using live ADS-B data, the camera and device sensors. Offline-first, so your collection survives with no signal.
+      <p>
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white">
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📉 Market screener</h4>
+      Spots stocks trading near historical lows and alerts me on Telegram. Signals are checked with a point-in-time backtest (no look-ahead, no survivorship bias) and the engine is covered by 300+ tests.
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Local RAG bot</h4>
+      Chat over a knowledge base without anything leaving the machine: chunked ingestion, CPU embeddings, top-k retrieval and a 7B model answering with streaming.
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/FastEmbed-1F8A70?style=flat">
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
+        <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Claude skills</h4>
+      My library of agent skills for Claude Code: a spec-driven flow (explore → propose → spec → design → tasks → apply → verify), security audits, ticket QA and guardrails, including a pre-push guard that blocks direct pushes to <code>main</code>.
+      <p>
+        <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white">
+        <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white">
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔐 Tamper-evident audit framework</h4>
+      An isolated service other apps (SSO, CRM, internal tools) send their events to, so nobody, admins included, can quietly rewrite history. FastAPI ingestion → stream queue → worker that hash-chains every event → immutable store, synced to a read-only PostgreSQL copy for dashboards, plus an integrity checker that alerts on any mismatch.
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/Valkey%20Streams-DC382D?style=flat&logo=redis&logoColor=white">
+        <img src="https://img.shields.io/badge/immudb-3C3C99?style=flat">
+        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Superset-20A6C9?style=flat&logo=apachesuperset&logoColor=white">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 MCP server with RAG</h4>
+      Makes internal documentation queryable from Claude and ChatGPT: PDF parsing and chunking, vector search in sqlite-vec, local models via Ollama. Deployed continuously from GitHub Actions with an SSH key locked to a single command, no overlapping deploys and a health check gate.
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white">
+        <img src="https://img.shields.io/badge/sqlite--vec-003B57?style=flat&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🪪 Single sign-on platform</h4>
+      SSO for ~500 users with apps plugged in over OIDC and SAML. The database lives on a private network with no public IP, TLS at the edge, versioned configuration snapshots and deploys from CI.
+      <p>
+        <img src="https://img.shields.io/badge/Authentik-FD4B2D?style=flat&logo=authentik&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white">
+        <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat&logo=hetzner&logoColor=white">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗝️ Environment & secrets manager</h4>
+      One place to manage every app's environment variables, built with Clean Architecture: API → services → domain, with infrastructure implementing the repositories, so the domain never imports HTTP or MySQL. Values encrypted at rest, change auditing and a maintenance CLI.
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/Fernet-555555?style=flat">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎒 Preparados72h</h4>
+      A family emergency-preparedness portal and Android app. It calculates water, food (allergies and diets included), batteries, nappies and pet supplies for 72 h, a week or 10 days, and comes with a 72-hour go-bag checklist, a family emergency plan and per-country official recommendations. Works offline. A daily GitHub Action curates relevant news from RSS feeds (keyword scoring, near-duplicate grouping), and CI builds and releases the APK.
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white">
+        <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💼 DashJobs</h4>
+      A local-first dashboard for anyone running a job search. It pulls your applications from LinkedIn and InfoJobs through your own signed-in browser, uses a local LLM to extract each offer's requirements, and turns them into a study plan with drafted notes on every topic. It syncs with Notion, and everything stays on your machine (JSON store with atomic writes, export/import backups).
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white">
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
+      </p>
+    </td>
+  </tr>
+</table>
+
+<sub>⚠️ Personal projects are under active development: features and demos may change.</sub>
+
+<p>
+  💬 <b>Curious about any of these, or fancy building one together?</b> Most of the repos are private for now,
+  but I'm always happy to share the details, swap ideas or collaborate.
+  Drop me a line at <a href="mailto:codecruz.mt@gmail.com">codecruz.mt@gmail.com</a>.
+</p>
 
 </div>
 
@@ -76,12 +229,12 @@
 
 | **Category**             | **Technologies**                                                                 |
 |--------------------------|----------------------------------------------------------------------------------|
-| **🌐 Programming Languages** | ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=flat&logo=json&logoColor=white) ![XML](https://custom-icon-badges.demolab.com/badge/XML-896C05.svg?logo=code-1&logoColor=white&style=flat) |
-| **🖥️ Frameworks & Libraries** | ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) ![Astro](https://img.shields.io/badge/Astro-%23BC52EE.svg?style=flat&logo=astro&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063.svg?style=flat&logo=pydantic&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
-| **📦 Databases**         | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=flat&logo=mongodb&logoColor=white) ![ChromaDB](https://custom-icon-badges.demolab.com/badge/ChromaDB-%23FF6F00.svg?logo=database&logoColor=white&style=flat) ![sqlmap](https://img.shields.io/badge/%F0%9F%92%89%20sqlmap-yellow?style=flat) |
-| **📊 Data, AI & Integration** | ![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff&style=flat) ![NumPy](https://img.shields.io/badge/NumPy-%23FFDE59.svg?style=flat&logo=numpy&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff&style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat&logo=ollama&logoColor=white) ![RAG](https://custom-icon-badges.demolab.com/badge/RAG%20%2F%20Embeddings-1F8A70?logo=ai&logoColor=white&style=flat) ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=flat&logo=chartdotjs&logoColor=white) ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-%234285F4.svg?style=flat&logo=google&logoColor=white) |
-| **🤖 Testing & Automation** | ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=flat&logo=puppeteer&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-%2369D3A7.svg?style=flat&logo=cypress&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-%238D6748.svg?style=flat&logo=mocha&logoColor=white) |
-| **⚙️ Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=flat&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat&logo=wordpress&logoColor=white) ![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=flat&logo=drupal&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) |
+| **🌐 Languages** | ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white) |
+| **🖥️ Frameworks & Libraries** | ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=flat&logo=sqlalchemy&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) ![Astro](https://img.shields.io/badge/Astro-%23BC52EE.svg?style=flat&logo=astro&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat&logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-%23000020.svg?style=flat&logo=expo&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-%23119EFF.svg?style=flat&logo=capacitor&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063.svg?style=flat&logo=pydantic&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
+| **📦 Databases & Messaging**         | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=flat&logo=mongodb&logoColor=white) ![ChromaDB](https://custom-icon-badges.demolab.com/badge/ChromaDB-%23FF6F00.svg?logo=database&logoColor=white&style=flat) ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white) ![Redis / Valkey](https://img.shields.io/badge/Redis%20%2F%20Valkey-%23DC382D.svg?style=flat&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat&logo=rabbitmq&logoColor=white) |
+| **📊 Data, AI & Integration** | ![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff&style=flat) ![NumPy](https://img.shields.io/badge/NumPy-%23FFDE59.svg?style=flat&logo=numpy&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff&style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat&logo=ollama&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=flat&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-%23000000.svg?style=flat&logo=modelcontextprotocol&logoColor=white) ![RAG](https://custom-icon-badges.demolab.com/badge/RAG%20%2F%20Embeddings-1F8A70?logo=ai&logoColor=white&style=flat) ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=flat&logo=chartdotjs&logoColor=white) ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-%234285F4.svg?style=flat&logo=google&logoColor=white) |
+| **🤖 Testing & Automation** | ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=flat&logo=puppeteer&logoColor=white) ![Scrapy](https://img.shields.io/badge/Scrapy-%2360A839.svg?style=flat&logo=scrapy&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=flat&logo=pytest&logoColor=white) ![PHPUnit](https://img.shields.io/badge/PHPUnit-%23366488.svg?style=flat&logo=php&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-%2369D3A7.svg?style=flat&logo=cypress&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-%238D6748.svg?style=flat&logo=mocha&logoColor=white) |
+| **⚙️ Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white) ![Caddy](https://img.shields.io/badge/Caddy-%231F88C0.svg?style=flat&logo=caddy&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-%2324A1C1.svg?style=flat&logo=traefikproxy&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-%23D50C2D.svg?style=flat&logo=hetzner&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI-%236BA539.svg?style=flat&logo=openapiinitiative&logoColor=white) ![New Relic](https://img.shields.io/badge/New%20Relic-%231CE783.svg?style=flat&logo=newrelic&logoColor=black) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Umami](https://img.shields.io/badge/Umami-%23000000.svg?style=flat&logo=umami&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=flat&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat&logo=wordpress&logoColor=white) ![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=flat&logo=drupal&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) |
 | **🖋️ IDEs & Editors**    | ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=flat) ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=flat&logo=sublime-text&logoColor=white) |
 
 
@@ -95,9 +248,6 @@
     </td>
   </tr>
 </table>
-  
-
-</div>
 
 <div align="center">
 
