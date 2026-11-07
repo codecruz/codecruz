@@ -256,6 +256,12 @@
 </div>
 
 <!--START_SECTION:langstats-->
+
+```txt
+Markdown                        💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮💮········   67.86 %
+Python                          💮💮💮💮💮💮💮💮·················   32.14 %
+```
+
 <!--END_SECTION:langstats-->
 
 
