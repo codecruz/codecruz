@@ -3,7 +3,6 @@ name: Update README
 on:
   schedule:
     - cron: '0 */12 * * *' # Actualiza actividad reciente cada 12 horas
-    - cron: '0 0 * * *'    # Actualiza WakaTime diariamente a las 12 AM UTC
   workflow_dispatch:
 
 jobs:
@@ -18,16 +17,3 @@ jobs:
         with:
           COMMIT_MSG: "Updated recent activity section"
           MAX_LINES: 10
-  waka-readme:
-    name: Update WakaTime Section
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: athul/waka-readme@8539bedb8277066fc9fe1b47d1f9b108eb866494
-        with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # opcional si es un perfil público
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # requerido
-          BLOCKS: "·🚀💮"
-          LANG_COUNT: "7"
-          TIME_RANGE: "last_30_days"
-          SHOW_TIME: "false"
