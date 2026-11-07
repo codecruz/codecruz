@@ -265,10 +265,6 @@ Python                          💮💮💮💮💮💮💮💮········
 <!--END_SECTION:langstats-->
 
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=codecruz&bg_color=1F222E&color=F9A825&line=FF6F00&point=FFFFFF&hide_border=false&v8" />
-
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=codecruz" alt="visit counter">
 </p>
