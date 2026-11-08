@@ -10,7 +10,7 @@
 </p>
 
 
-🛠️  Full-stack developer from southern Spain, happiest knee-deep in data. I specialize in APIs, ETL and data migration (PHP · Python · JavaScript), with a soft spot for large-scale processing, GIS and web scraping. After hours I build things I'd actually use: [**Kana-Boo**](https://kana-boo.com), to learn Japanese; [**langstats**](https://github.com/codecruz/langstats), a Claude Code plugin that powers the language stats at the bottom of this page; and [**spain-postal-codes**](https://github.com/codecruz/spain-postal-codes), an open dataset of Spanish postal codes published on [npm](https://www.npmjs.com/package/spain-postal-codes) and [Packagist](https://packagist.org/packages/codecruz/spain-postal-codes). Lately I spend a lot of time where backend meets LLMs: MCP servers, RAG and agents that know when to hand work to a local model. Quality over quantity, always.
+🛠️  Full-stack developer from southern Spain, happiest knee-deep in data. I specialize in APIs, ETL and data migration (PHP · Python · JavaScript), with a soft spot for large-scale processing, GIS and web scraping. After hours I build things I'd actually use: [**Kana-Boo**](https://kana-boo.com), to learn Japanese; [**langstats**](https://github.com/codecruz/langstats), a Claude Code plugin that powers the language stats at the bottom of this page; [**spain-postal-codes**](https://github.com/codecruz/spain-postal-codes), an open dataset of Spanish postal codes published on [npm](https://www.npmjs.com/package/spain-postal-codes) and [Packagist](https://packagist.org/packages/codecruz/spain-postal-codes); and [**Preparados72h**](https://codecruz.github.io/preparados72h/), a family emergency-preparedness portal and Android app that works offline. Lately I spend a lot of time where backend meets LLMs: MCP servers, RAG and agents that know when to hand work to a local model. Quality over quantity, always.
   
 <div align="center">
 <a href='https://ko-fi.com/D4S522CGYR' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
@@ -72,7 +72,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2" valign="top">
+    <td align="center" width="50%" valign="top">
       <h3>🇪🇸📮 spain-postal-codes</h3>
       <a href="https://www.npmjs.com/package/spain-postal-codes">
         <img src="https://img.shields.io/npm/v/spain-postal-codes?style=for-the-badge&logo=npm&logoColor=white&label=npm&color=CB3837" alt="spain-postal-codes on npm">
@@ -108,95 +108,30 @@
         <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white">
       </p>
     </td>
-  </tr>
-</table>
-
-### 🧪 More from the workshop
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛠️ Hefesto</h4>
-      My own dev control panel. A Fastify daemon collects the state of my services, containers, databases and AI subscription usage, and streams it over SSE to a terminal UI (Ink) and a React dashboard.
+    <td align="center" width="50%" valign="top">
+      <h3>🎒🆘 Preparados72h</h3>
+      <a href="https://codecruz.github.io/preparados72h/">
+        <img src="https://img.shields.io/badge/Live%20Site-codecruz.github.io%2Fpreparados72h-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Preparados72h live site">
+      </a>
+      <a href="https://github.com/codecruz/preparados72h/releases">
+        <img src="https://img.shields.io/badge/Download-Android%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download the Preparados72h Android APK">
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Status-🟢%20Live%20%26%20growing-2EA043?style=flat-square">
+      <img src="https://img.shields.io/badge/Offline-first-5A0FC8?style=flat-square">
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+        A family <b>emergency-preparedness</b> portal and <b>Android app</b> that keeps working with no
+        signal. Its <b>supplies calculator</b> uses official figures: water broken down by use, five age
+        groups, dogs by size, hot weather, "no stove" mode, allergies, intolerances and diets, plus a
+        sample menu and the real kilos to buy. Then an <b>inventory with expiry dates</b> tells you what's missing.
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧭 Agent orchestrator</h4>
-      Takes a project from first idea to a task breakdown in Notion. Frontier models plan, review and test; clear-cut tasks are delegated to local models depending on difficulty, scope and context size, and the router learns from its own hit/miss history.
       <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
+        Also: guides per emergency (blackout, flood, heatwave, cyberattack…), survival skills with offline
+        illustrations, a <b>Morse code</b> translator and SOS emitter, offline meeting points with GPS,
+        a <b>world map of official recommendations</b> per country and a battery-saving blackout mode.
+        News is curated from RSS <b>every 6 hours by GitHub Actions</b>, and CI builds and releases the APK.
+        No dependencies, no build step, accessibility reviewed.
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>✈️ Planedex</h4>
-      A Pokédex for planes: point your phone at the sky and identify the aircraft flying over you, using live ADS-B data, the camera and device sensors. Offline-first, so your collection survives with no signal.
-      <p>
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white">
-        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📉 Market screener</h4>
-      Spots stocks trading near historical lows and alerts me on Telegram. Signals are checked with a point-in-time backtest (no look-ahead, no survivorship bias) and the engine is covered by 300+ tests.
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
-        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white">
-        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white">
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Local RAG bot</h4>
-      Chat over a knowledge base without anything leaving the machine: chunked ingestion, CPU embeddings, top-k retrieval and a 7B model answering with streaming.
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/FastEmbed-1F8A70?style=flat">
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
-        <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔐 Tamper-evident audit framework</h4>
-      An isolated service other apps (SSO, CRM, internal tools) send their events to, so nobody, admins included, can quietly rewrite history. FastAPI ingestion → stream queue → worker that hash-chains every event → immutable store, synced to a read-only PostgreSQL copy for dashboards, plus an integrity checker that alerts on any mismatch.
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-        <img src="https://img.shields.io/badge/Valkey%20Streams-DC382D?style=flat&logo=redis&logoColor=white">
-        <img src="https://img.shields.io/badge/immudb-3C3C99?style=flat">
-        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white">
-        <img src="https://img.shields.io/badge/Superset-20A6C9?style=flat&logo=apachesuperset&logoColor=white">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 MCP server with RAG</h4>
-      Makes internal documentation queryable from Claude and ChatGPT: PDF parsing and chunking, vector search in sqlite-vec, local models via Ollama. Deployed continuously from GitHub Actions with an SSH key locked to a single command, no overlapping deploys and a health check gate.
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white">
-        <img src="https://img.shields.io/badge/sqlite--vec-003B57?style=flat&logo=sqlite&logoColor=white">
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎒 Preparados72h</h4>
-      A family emergency-preparedness portal and Android app. It calculates water, food (allergies and diets included), batteries, nappies and pet supplies for 72 h, a week or 10 days, and comes with a 72-hour go-bag checklist, a family emergency plan and per-country official recommendations. Works offline. A daily GitHub Action curates relevant news from RSS feeds (keyword scoring, near-duplicate grouping), and CI builds and releases the APK.
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white">
@@ -206,31 +141,104 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💼 DashJobs</h4>
-      A local-first dashboard for anyone running a job search. It pulls your applications from LinkedIn and InfoJobs through your own signed-in browser, uses a local LLM to extract each offer's requirements, and turns them into a study plan with drafted notes on every topic. It syncs with Notion, and everything stays on your machine (JSON store with atomic writes, export/import backups).
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white">
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏋️ AniFit</h4>
-      A fitness diary with anime gamification: log steps, calories, protein, water, weight and workouts, find out which anime character archetype matches your body composition (FFMI + body fat), and see the positive and negative routes your habits lead to. <a href="https://anifit-livid.vercel.app/">Live demo</a>.
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-      </p>
-    </td>
-  </tr>
 </table>
+
+</div>
+
+<div align="center">
+
+### 🧪 More from the workshop
+
+</div>
+
+#### 🤖 AI & agents
+
+<details>
+<summary><b>🧭 Agent orchestrator</b> · From first idea to Notion tasks, routing clear-cut work to local models.</summary>
+<br/>
+
+Takes a project from first idea to a task breakdown in Notion. Frontier models plan, review and test; clear-cut tasks are delegated to local models depending on difficulty, scope and context size, and the router learns from its own hit/miss history.
+
+<sub>Go · Notion · Ollama · SQLite</sub>
+</details>
+
+<details>
+<summary><b>🧠 MCP server with RAG</b> · Internal docs queryable from Claude and ChatGPT, deployed continuously.</summary>
+<br/>
+
+Makes internal documentation queryable from Claude and ChatGPT: PDF parsing and chunking, vector search in sqlite-vec, local models via Ollama. Deployed continuously from GitHub Actions with an SSH key locked to a single command, no overlapping deploys and a health check gate.
+
+<sub>Python · MCP · sqlite-vec · Ollama · GitHub Actions</sub>
+</details>
+
+<details>
+<summary><b>💬 Local RAG bot</b> · Chat with a knowledge base without anything leaving the machine.</summary>
+<br/>
+
+Chat over a knowledge base without anything leaving the machine: chunked ingestion, CPU embeddings, top-k retrieval and a 7B model answering with streaming.
+
+<sub>Python · FastEmbed · Ollama · Gradio</sub>
+</details>
+
+<details>
+<summary><b>💼 DashJobs</b> · Local-first job-search dashboard that turns offers into a study plan.</summary>
+<br/>
+
+A local-first dashboard for anyone running a job search. It pulls your applications from LinkedIn and InfoJobs through your own signed-in browser, uses a local LLM to extract each offer's requirements, and turns them into a study plan with drafted notes on every topic. It syncs with Notion, and everything stays on your machine (JSON store with atomic writes, export/import backups).
+
+<sub>React · Express · Playwright · Ollama · Notion</sub>
+</details>
+
+#### 🛠️ Infra & data
+
+<details>
+<summary><b>🛠️ Hefesto</b> · Live dev control panel for services, containers, databases and AI usage.</summary>
+<br/>
+
+My own dev control panel. A Fastify daemon collects the state of my services, containers, databases and AI subscription usage, and streams it over SSE to a terminal UI (Ink) and a React dashboard.
+
+<sub>TypeScript · Fastify · React · PostgreSQL · Docker</sub>
+</details>
+
+<details>
+<summary><b>🔐 Tamper-evident audit framework</b> · A hash-chained event log nobody, admins included, can quietly rewrite.</summary>
+<br/>
+
+An isolated service other apps (SSO, CRM, internal tools) send their events to, so nobody, admins included, can quietly rewrite history. FastAPI ingestion → stream queue → worker that hash-chains every event → immutable store, synced to a read-only PostgreSQL copy for dashboards, plus an integrity checker that alerts on any mismatch.
+
+<sub>FastAPI · Valkey Streams · immudb · PostgreSQL · Superset</sub>
+</details>
+
+<details>
+<summary><b>📉 Market screener</b> · Stocks near historical lows, backtested and sent to Telegram.</summary>
+<br/>
+
+Spots stocks trading near historical lows and alerts me on Telegram. Signals are checked with a point-in-time backtest (no look-ahead, no survivorship bias) and the engine is covered by 300+ tests.
+
+<sub>Python · Flask · PostgreSQL · pytest · Telegram</sub>
+</details>
+
+#### 📱 Apps
+
+<details>
+<summary><b>✈️ Planedex</b> · Point your phone at the sky and identify the plane flying over you.</summary>
+<br/>
+
+A Pokédex for planes: point your phone at the sky and identify the aircraft flying over you, using live ADS-B data, the camera and device sensors. Offline-first, so your collection survives with no signal.
+
+<sub>Expo · React Native · SQLite</sub>
+</details>
+
+<details>
+<summary><b>🏋️ AniFit</b> · A fitness diary where your training levels up an anime character.</summary>
+<br/>
+
+A fitness diary with anime gamification: log steps, calories, protein, water, weight and workouts, find out which anime character archetype matches your body composition (FFMI + body fat), and see the positive and negative routes your habits lead to. [Live demo](https://anifit-livid.vercel.app/).
+
+<sub>FastAPI · PostgreSQL · React · Vite · TailwindCSS</sub>
+</details>
+
+<div align="center">
 
 <sub>⚠️ Personal projects are under active development: features and demos may change.</sub>
 
