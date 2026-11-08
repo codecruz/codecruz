@@ -171,17 +171,6 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 Claude skills</h4>
-      My library of agent skills for Claude Code: a spec-driven flow (explore → propose → spec → design → tasks → apply → verify), security audits, ticket QA and guardrails, including a pre-push guard that blocks direct pushes to <code>main</code>.
-      <p>
-        <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white">
-        <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white">
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h4>🔐 Tamper-evident audit framework</h4>
       An isolated service other apps (SSO, CRM, internal tools) send their events to, so nobody, admins included, can quietly rewrite history. FastAPI ingestion → stream queue → worker that hash-chains every event → immutable store, synced to a read-only PostgreSQL copy for dashboards, plus an integrity checker that alerts on any mismatch.
       <p>
@@ -192,6 +181,8 @@
         <img src="https://img.shields.io/badge/Superset-20A6C9?style=flat&logo=apachesuperset&logoColor=white">
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🧠 MCP server with RAG</h4>
       Makes internal documentation queryable from Claude and ChatGPT: PDF parsing and chunking, vector search in sqlite-vec, local models via Ollama. Deployed continuously from GitHub Actions with an SSH key locked to a single command, no overlapping deploys and a health check gate.
@@ -203,30 +194,6 @@
         <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🪪 Single sign-on platform</h4>
-      SSO for ~500 users with apps plugged in over OIDC and SAML. The database lives on a private network with no public IP, TLS at the edge, versioned configuration snapshots and deploys from CI.
-      <p>
-        <img src="https://img.shields.io/badge/Authentik-FD4B2D?style=flat&logo=authentik&logoColor=white">
-        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white">
-        <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white">
-        <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat&logo=hetzner&logoColor=white">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🗝️ Environment & secrets manager</h4>
-      One place to manage every app's environment variables, built with Clean Architecture: API → services → domain, with infrastructure implementing the repositories, so the domain never imports HTTP or MySQL. Values encrypted at rest, change auditing and a maintenance CLI.
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/Fernet-555555?style=flat">
-      </p>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🎒 Preparados72h</h4>
       A family emergency-preparedness portal and Android app. It calculates water, food (allergies and diets included), batteries, nappies and pet supplies for 72 h, a week or 10 days, and comes with a 72-hour go-bag checklist, a family emergency plan and per-country official recommendations. Works offline. A daily GitHub Action curates relevant news from RSS feeds (keyword scoring, near-duplicate grouping), and CI builds and releases the APK.
@@ -238,6 +205,8 @@
         <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>💼 DashJobs</h4>
       A local-first dashboard for anyone running a job search. It pulls your applications from LinkedIn and InfoJobs through your own signed-in browser, uses a local LLM to extract each offer's requirements, and turns them into a study plan with drafted notes on every topic. It syncs with Notion, and everything stays on your machine (JSON store with atomic writes, export/import backups).
@@ -249,8 +218,6 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🏋️ AniFit</h4>
       A fitness diary with anime gamification: log steps, calories, protein, water, weight and workouts, find out which anime character archetype matches your body composition (FFMI + body fat), and see the positive and negative routes your habits lead to. <a href="https://anifit-livid.vercel.app/">Live demo</a>.
@@ -262,7 +229,6 @@
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
       </p>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
