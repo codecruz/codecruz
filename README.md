@@ -10,7 +10,7 @@
 </p>
 
 
-🛠️  Full-stack developer from southern Spain, happiest knee-deep in data. I specialize in APIs, ETL and data migration (PHP · Python · JavaScript), with a soft spot for large-scale processing, GIS and web scraping. After hours I build things I'd actually use: [**Kana-Boo**](https://kana-boo.com), to learn Japanese; [**langstats**](https://github.com/codecruz/langstats), a Claude Code plugin that powers the language stats at the bottom of this page; [**spain-postal-codes**](https://github.com/codecruz/spain-postal-codes), an open dataset of Spanish postal codes published on [npm](https://www.npmjs.com/package/spain-postal-codes) and [Packagist](https://packagist.org/packages/codecruz/spain-postal-codes); and [**Preparados72h**](https://codecruz.github.io/preparados72h/), a family emergency-preparedness portal and Android app that works offline. Lately I spend a lot of time where backend meets LLMs: MCP servers, RAG and agents that know when to hand work to a local model. Quality over quantity, always.
+🛠️  Full-stack developer from southern Spain, happiest knee-deep in data. I specialize in APIs, ETL and data migration (PHP · Python · JavaScript), with a soft spot for large-scale processing, GIS and web scraping. After hours I build things I'd actually use: [**Kana~boo**](https://www.kana-boo.com/), to learn Japanese; [**langstats**](https://codecruz.github.io/langstats/), a Claude Code plugin that powers the language stats at the bottom of this page; [**spain-postal-codes**](https://codecruz.github.io/spain-postal-codes/), an open dataset of Spanish postal codes published on [npm](https://www.npmjs.com/package/spain-postal-codes) and [Packagist](https://packagist.org/packages/codecruz/spain-postal-codes); [**Preparados72h**](https://codecruz.github.io/preparados72h/), a family emergency-preparedness portal and Android app that works offline; and [**Currency Flow**](https://codecruz.github.io/currency-flow-api/), the ECB's official euro exchange rates since 1999 as a free static JSON API and a PHP library. Lately I spend a lot of time where backend meets LLMs: MCP servers, RAG and agents that know when to hand work to a local model. Quality over quantity, always.
   
 <div align="center">
 <a href='https://ko-fi.com/D4S522CGYR' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
@@ -47,6 +47,9 @@
     </td>
     <td align="center" width="50%" valign="top">
       <h3>🌸📊 langstats</h3>
+      <a href="https://codecruz.github.io/langstats/">
+        <img src="https://img.shields.io/badge/Live%20Site-codecruz.github.io%2Flangstats-000000?style=for-the-badge&logoColor=white" alt="langstats live site">
+      </a>
       <a href="https://github.com/codecruz/langstats">
         <img src="https://img.shields.io/badge/GitHub-codecruz%2Flangstats-181717?style=for-the-badge&logo=github&logoColor=white" alt="langstats on GitHub">
       </a>
@@ -74,14 +77,14 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <h3>🇪🇸📮 spain-postal-codes</h3>
+      <a href="https://codecruz.github.io/spain-postal-codes/">
+        <img src="https://img.shields.io/badge/Live%20Site-codecruz.github.io%2Fspain--postal--codes-000000?style=for-the-badge&logoColor=white" alt="spain-postal-codes live site">
+      </a>
       <a href="https://www.npmjs.com/package/spain-postal-codes">
         <img src="https://img.shields.io/npm/v/spain-postal-codes?style=for-the-badge&logo=npm&logoColor=white&label=npm&color=CB3837" alt="spain-postal-codes on npm">
       </a>
       <a href="https://packagist.org/packages/codecruz/spain-postal-codes">
         <img src="https://img.shields.io/packagist/v/codecruz/spain-postal-codes?style=for-the-badge&logo=packagist&logoColor=white&label=packagist&color=F28D1A" alt="codecruz/spain-postal-codes on Packagist">
-      </a>
-      <a href="https://codecruz.github.io/spain-postal-codes/">
-        <img src="https://img.shields.io/badge/JSON%20API-GitHub%20Pages-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Static JSON API">
       </a>
       <br/>
       <img src="https://img.shields.io/badge/Status-🟢%20Published-2EA043?style=flat-square">
@@ -111,7 +114,7 @@
     <td align="center" width="50%" valign="top">
       <h3>🎒🆘 Preparados72h</h3>
       <a href="https://codecruz.github.io/preparados72h/">
-        <img src="https://img.shields.io/badge/Live%20Site-codecruz.github.io%2Fpreparados72h-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Preparados72h live site">
+        <img src="https://img.shields.io/badge/Live%20Site-codecruz.github.io%2Fpreparados72h-000000?style=for-the-badge&logoColor=white" alt="Preparados72h live site">
       </a>
       <a href="https://github.com/codecruz/preparados72h/releases">
         <img src="https://img.shields.io/badge/Download-Android%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download the Preparados72h Android APK">
@@ -138,6 +141,40 @@
         <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <h3>💱🇪🇺 Currency Flow</h3>
+      <a href="https://codecruz.github.io/currency-flow-api/">
+        <img src="https://img.shields.io/badge/Live%20Site-codecruz.github.io%2Fcurrency--flow--api-000000?style=for-the-badge&logoColor=white" alt="Currency Flow live site">
+      </a>
+      <a href="https://packagist.org/packages/codecruz/currency-flow">
+        <img src="https://img.shields.io/packagist/v/codecruz/currency-flow?style=for-the-badge&logo=packagist&logoColor=white&label=packagist&color=F28D1A" alt="codecruz/currency-flow on Packagist">
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Status-🟢%20Updated%20daily-2EA043?style=flat-square">
+      <img src="https://img.shields.io/badge/code-MIT-blue?style=flat-square">
+      <p>
+        The <b>official euro exchange rates published by the European Central Bank</b>, every business day
+        since 1999: <b>29 active currencies · 12 discontinued</b>. Use them as a <b>static JSON API</b> on
+        GitHub Pages (no server, no API key, open CORS), a <b>PHP library</b> via Composer or a
+        <b>self-hosted HTTP API</b> with an OpenAPI 3.1 spec.
+      </p>
+      <p>
+        Cross rates and conversions between any two currencies, weekends and holidays resolved to the
+        previous publication (and every answer says which date was used), and rates kept as the ECB's exact
+        decimal strings, with no float rounding. GitHub Actions rebuilds the site after each ECB publication
+        and refuses to publish data that fails validation. Docs and converter in 6 languages.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP%208.2+-777BB4?style=flat&logo=php&logoColor=white">
+        <img src="https://img.shields.io/badge/Slim%204-74A045?style=flat">
+        <img src="https://img.shields.io/badge/OpenAPI%203.1-6BA539?style=flat&logo=openapiinitiative&logoColor=white">
+        <img src="https://img.shields.io/badge/PHPStan-max-brightgreen?style=flat">
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white">
       </p>
     </td>
   </tr>
