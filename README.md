@@ -324,13 +324,9 @@ A fitness diary with anime gamification: log steps, calories, protein, water, we
 <!--START_SECTION:langstats-->
 
 ```txt
-Python                          🌸🌸🌸🌸🌸🌸🌸🌸·················   32.73 %
-YAML                            🌸🌸🌱······················   10.52 %
-JavaScript                      🌸🌸·······················   08.35 %
-Markdown                        🌸🌸·······················   07.12 %
-PHP                             🌸························   04.04 %
-HTML                            🌸························   03.74 %
-Other                           🌸🌸🌸🌸🌸🌸🌸🌸🌱················   33.50 %
+Python                          🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌱············   49.74 %
+Docker                          🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸·············   48.21 %
+HTML                            🌱························   02.05 %
 ```
 
 <!--END_SECTION:langstats-->
