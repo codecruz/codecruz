@@ -10,7 +10,7 @@
 </p>
 
 
-🛠️  Full-stack developer from southern Spain, happiest knee-deep in data. I specialize in APIs, ETL and data migration (PHP · Python · JavaScript), with a soft spot for large-scale processing, GIS and web scraping. After hours I build things I'd actually use: [**Kana~boo**](https://www.kana-boo.com/), to learn Japanese; [**langstats**](https://codecruz.github.io/langstats/), a Claude Code plugin that powers the language stats at the bottom of this page; [**spain-postal-codes**](https://codecruz.github.io/spain-postal-codes/), an open dataset of Spanish postal codes published on [npm](https://www.npmjs.com/package/spain-postal-codes) and [Packagist](https://packagist.org/packages/codecruz/spain-postal-codes); [**Preparados72h**](https://prep72h.pages.dev/), a family emergency-preparedness portal and Android app that works offline; and [**Currency Flow**](https://codecruz.github.io/currency-flow-api/), the ECB's official euro exchange rates since 1999 as a free static JSON API and a PHP library. Lately I spend a lot of time where backend meets LLMs: MCP servers, RAG and agents that know when to hand work to a local model. Quality over quantity, always.
+🛠️  Full-stack developer from southern Spain, happiest knee-deep in data. I specialize in APIs, ETL and data migration (PHP · Python · JavaScript), with a soft spot for large-scale processing, GIS and web scraping. After hours I build things I'd actually use: [**Kana~boo**](https://www.kana-boo.com/), to learn Japanese; [**langstats**](https://codecruz.github.io/langstats/), a Claude Code plugin that powers the language stats at the bottom of this page; [**spain-postal-codes**](https://codecruz.github.io/spain-postal-codes/), an open dataset of Spanish postal codes published on [npm](https://www.npmjs.com/package/spain-postal-codes) and [Packagist](https://packagist.org/packages/codecruz/spain-postal-codes); [**Preparados72h**](https://prep72h.com/), a family emergency-preparedness portal and Android app, in Spanish and English, that works offline; and [**Currency Flow**](https://codecruz.github.io/currency-flow-api/), the ECB's official euro exchange rates since 1999 as a free static JSON API and a PHP library. Lately I spend a lot of time where backend meets LLMs: MCP servers, RAG and agents that know when to hand work to a local model. Quality over quantity, always.
   
 <div align="center">
 <a href='https://ko-fi.com/D4S522CGYR' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
@@ -34,7 +34,9 @@
         practice and <b>spaced-repetition reviews</b>.
       </p>
       <p>
-        Fully static and multilingual (🇪🇸 ES / 🇬🇧 EN / 🇯🇵 JA, route-based i18n): every
+        No sign-up needed: an <b>optional free account</b> syncs your progress across devices and
+        unlocks a <b>40-badge achievements collection</b>, an opt-in ranking and shareable image cards.
+        Static and multilingual (🇪🇸 ES / 🇬🇧 EN / 🇯🇵 JA, route-based i18n): every
         dataset is validated at build time, SEO and analytics are covered by tests, and
         it uses privacy-friendly analytics.
       </p>
@@ -42,6 +44,7 @@
         <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white">
         <img src="https://img.shields.io/badge/Umami-000000?style=flat&logo=umami&logoColor=white">
       </p>
     </td>
@@ -113,10 +116,10 @@
     </td>
     <td align="center" width="50%" valign="top">
       <h3>🎒🆘 Preparados72h</h3>
-      <a href="https://prep72h.pages.dev/">
-        <img src="https://img.shields.io/badge/Live%20Site-prep72h.pages.dev-000000?style=for-the-badge&logoColor=white" alt="Preparados72h live site">
+      <a href="https://prep72h.com/">
+        <img src="https://img.shields.io/badge/Live%20Site-prep72h.com-000000?style=for-the-badge&logoColor=white" alt="Preparados72h live site">
       </a>
-      <a href="https://prep72h.pages.dev/app/Preparados72h.apk">
+      <a href="https://prep72h.com/app/Preparados72h.apk">
         <img src="https://img.shields.io/badge/Download-Android%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download the Preparados72h Android APK">
       </a>
       <br/>
@@ -127,13 +130,15 @@
         signal. Its <b>supplies calculator</b> uses official figures: water broken down by use, five age
         groups, dogs by size, hot weather, "no stove" mode, allergies, intolerances and diets, plus a
         sample menu and the real kilos to buy. Then an <b>inventory with expiry dates</b> tells you what's missing.
+        Available in <b>Spanish and English</b> (🇪🇸 ES / 🇬🇧 EN), on the web and in the app.
       </p>
       <p>
-        Also: guides per emergency (blackout, flood, heatwave, cyberattack…), survival skills with offline
-        illustrations, a <b>Morse code</b> translator and SOS emitter, offline meeting points with GPS,
-        a <b>world map of official recommendations</b> per country and a battery-saving blackout mode.
-        News is curated from RSS <b>every 6 hours by GitHub Actions</b>, which also builds the APK and deploys both the site and the app download to <b>Cloudflare Pages</b>.
-        No dependencies, no build step, accessibility reviewed.
+        Also: <b>14 step-by-step guides</b> per emergency (blackout, flood, earthquake, wildfire, cyberattack…),
+        emergency kits and what each country asks for, survival skills with offline illustrations, a
+        <b>Morse code</b> translator and SOS emitter, offline meeting points and nearby emergency services,
+        and a battery-saving blackout mode. <b>Official weather warnings</b> by region and curated news are
+        refreshed <b>every 6 hours by GitHub Actions</b>, which also builds the APK and deploys both the site
+        and the app download to <b>Cloudflare Pages</b>. Cookieless analytics, accessibility reviewed.
       </p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
@@ -222,7 +227,7 @@ Chat over a knowledge base without anything leaving the machine: chunked ingesti
 <summary><b>💼 DashJobs</b> · Local-first job-search dashboard that turns offers into a study plan.</summary>
 <br/>
 
-A local-first dashboard for anyone running a job search. It pulls your applications from LinkedIn and InfoJobs through your own signed-in browser, uses a local LLM to extract each offer's requirements, and turns them into a study plan with drafted notes on every topic. It syncs with Notion, and everything stays on your machine (JSON store with atomic writes, export/import backups).
+A local-first dashboard for anyone running a job search. It pulls your applications from LinkedIn and InfoJobs through your own signed-in browser, uses a local LLM to extract each offer's requirements, and turns them into a study plan with drafted notes on every topic. It also generates a CV tailored to each offer as a PDF. It syncs with Notion, and everything stays on your machine (JSON store with atomic writes, export/import backups).
 
 <sub>React · Express · Playwright · Ollama · Notion</sub>
 </details>
@@ -230,12 +235,12 @@ A local-first dashboard for anyone running a job search. It pulls your applicati
 #### 🛠️ Infra & data
 
 <details>
-<summary><b>🛠️ Hefesto</b> · Live dev control panel for services, containers, databases and AI usage.</summary>
+<summary><b>🛠️ Hefesto</b> · One control panel for every AI tool on my machine, and the machine they run on.</summary>
 <br/>
 
-My own dev control panel. A Fastify daemon collects the state of my services, containers, databases and AI subscription usage, and streams it over SSE to a terminal UI (Ink) and a React dashboard.
+My own AI control suite. It reads the local records of Claude Code, Codex CLI, Gemini CLI, OpenCode and Ollama into one ledger (tokens, estimated cost, sessions, models and projects, with budgets that span tools) and shows where every AI-assisted project stands: spend, git, pull requests and CI. The same numbers reach a React dashboard, a terminal UI (Ink), a CLI and an MCP server any agent can query, next to the state of my services, containers and databases. Local and read-only: nothing leaves the machine.
 
-<sub>TypeScript · Fastify · React · PostgreSQL · Docker</sub>
+<sub>TypeScript · Fastify · React · Ink · MCP · SQLite · Docker</sub>
 </details>
 
 <details>
