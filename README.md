@@ -157,6 +157,53 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <h3>⚒️🤖 Hefesto</h3>
+      <img src="https://img.shields.io/badge/Status-🚧%20Active%20development-F0883E?style=flat-square">
+      <img src="https://img.shields.io/badge/Runs-on%20your%20machine-5A0FC8?style=flat-square">
+      <p>
+        <b>One control panel to rule them all: every AI tool on my machine, and the machine they run on.</b>
+        It reads the local records of <b>Claude Code, Codex CLI, Gemini CLI, OpenCode and Ollama</b> into
+        one ledger: tokens, estimated cost, sessions, models and projects, with subscription limits and
+        <b>budgets that span tools</b>. A projects view shows where everything I build with AI stands
+        (spend, git, pull requests and CI) and starts any project locally with one button, next to the
+        state of my services, containers, databases and local models.
+      </p>
+      <p>
+        It also <b>listens and acts</b>: an assistant you can talk to by text or voice (local Whisper in,
+        local Piper out, in Spanish or English) answers fixed commands instantly, hands everything else to
+        Claude Code and <b>searches what was said in past sessions</b>. When a project doesn't start,
+        <b>Claude fixes it</b>, supervised or with full autonomy, and you can watch exactly what each fix is
+        doing. <b>Critical actions always go through a person</b>: guardrails and your own rules, per command
+        or per file, are enforced by Hefesto on every action, with a box to test a rule before trusting it.
+      </p>
+      <p>
+        The same numbers reach a <b>React dashboard</b>, a <b>terminal UI</b>, a <b>CLI</b>, a CSV/JSON export
+        and an <b>MCP server</b> any agent can query to see what it, and every other tool, has spent.
+        Everything is configured from one file, with modules you switch on (subscription limits, AI news,
+        GitHub, or a script of your own), and it runs as an always-on desktop app.
+      </p>
+      <p>
+        <img src="assets/hefesto-home.png" width="49%" alt="Hefesto home: today's figures, subscription limits and budgets, and the AI tools and models found on the machine">
+        <img src="assets/hefesto-ai-usage.png" width="49%" alt="AI usage: daily tokens by tool, estimated cost, sessions and budgets across Claude Code and Codex CLI">
+        <img src="assets/hefesto-projects.png" width="49%" alt="Projects: spend per tool, git branch, last commit and a Start button for every folder worked on with AI">
+        <img src="assets/hefesto-settings.png" width="49%" alt="Guardrails: which critical actions ask a person first, are never allowed or stop being critical">
+        <br/>
+        <sub>Home · AI usage · Projects · Guardrails. Screenshots use demo data.</sub>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/Ink-000000?style=flat">
+        <img src="https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white">
+      </p>
+    </td>
+  </tr>
 </table>
 
 ## 🧩 Claude Code Plugins
@@ -242,46 +289,39 @@
 
 Takes a project from first idea to a task breakdown in Notion. Frontier models plan, review and test; clear-cut tasks are delegated to local models depending on difficulty, scope and context size, and the router learns from its own hit/miss history.
 
-<sub>Go · Notion · Ollama · SQLite</sub>
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat&logo=ollama&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white)
 </details>
 
 <details>
 <summary><b>🧠 MCP server with RAG</b> · Internal docs queryable from Claude and ChatGPT, deployed continuously.</summary>
 <br/>
 
-Makes internal documentation queryable from Claude and ChatGPT: PDF parsing and chunking, vector search in sqlite-vec, local models via Ollama. Deployed continuously from GitHub Actions with an SSH key locked to a single command, no overlapping deploys and a health check gate.
+Makes internal documentation queryable from Claude and ChatGPT: PDF parsing and chunking, vector search in sqlite-vec, local models via Ollama. It adapts to how each group of people (a team, a department) uses it. Deployed continuously from GitHub Actions with an SSH key locked to a single command, no overlapping deploys and a health check gate.
 
-<sub>Python · MCP · sqlite-vec · Ollama · GitHub Actions</sub>
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-%23000000.svg?style=flat&logo=modelcontextprotocol&logoColor=white) ![sqlite-vec](https://img.shields.io/badge/sqlite--vec-%23003B57.svg?style=flat&logo=sqlite&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat&logo=ollama&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white)
 </details>
 
 <details>
 <summary><b>💬 Local RAG bot</b> · Chat with a knowledge base without anything leaving the machine.</summary>
 <br/>
 
-Chat over a knowledge base without anything leaving the machine: chunked ingestion, CPU embeddings, top-k retrieval and a 7B model answering with streaming.
+Chat over a knowledge base (Confluence, Notion, Outline…) without anything leaving the machine: chunked ingestion, CPU embeddings, top-k retrieval and a 7B model answering with streaming.
 
-<sub>Python · FastEmbed · Ollama · Gradio</sub>
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![FastEmbed](https://img.shields.io/badge/FastEmbed-%231F8A70.svg?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat&logo=ollama&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-%23F97316.svg?style=flat&logo=gradio&logoColor=white)
 </details>
 
 <details>
-<summary><b>💼 DashJobs</b> · Local-first job-search dashboard that turns offers into a study plan.</summary>
+<summary><b>💼 DashJobs & jobprep</b> · A job-search toolkit: from offers to a study plan, a tailored CV and interview prep.</summary>
 <br/>
 
-A local-first dashboard for anyone running a job search. It pulls your applications from LinkedIn and InfoJobs through your own signed-in browser, uses a local LLM to extract each offer's requirements, and turns them into a study plan with drafted notes on every topic. It also generates a CV tailored to each offer as a PDF. It syncs with Notion, and everything stays on your machine (JSON store with atomic writes, export/import backups).
+Two local tools for anyone running a job search. **DashJobs** is the dashboard: it pulls your applications from LinkedIn and InfoJobs through your own signed-in browser, uses a local LLM to extract each offer's requirements, and turns them into a study plan with drafted notes on every topic. It syncs with Notion and keeps its data on your machine (JSON store with atomic writes, export/import backups).
 
-<sub>React · Express · Playwright · Ollama · Notion</sub>
+**jobprep** takes each offer to the application. It builds a master profile from your previous CVs or your LinkedIn PDF (Claude proposes changes and you accept them one by one), checks the ad requirement by requirement against that profile, and asks you about whatever is unclear, turning your answers into new profile bullets. Then it generates a tailored two-page CV as a PDF and a cover letter, researches the company and builds an interview study page (with audio when the interview is in English), also as an EPUB for Kindle. Its AI runs through Claude Code on your own subscription, with no API key.
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat&logo=express&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat&logo=playwright&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=flat&logo=ollama&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=flat&logo=anthropic&logoColor=white)
 </details>
 
 #### 🛠️ Infra & data
-
-<details>
-<summary><b>🛠️ Hefesto</b> · One control panel for every AI tool on my machine, and the machine they run on.</summary>
-<br/>
-
-My own AI control suite. It reads the local records of Claude Code, Codex CLI, Gemini CLI, OpenCode and Ollama into one ledger (tokens, estimated cost, sessions, models and projects, with budgets that span tools) and shows where every AI-assisted project stands: spend, git, pull requests and CI. The same numbers reach a React dashboard, a terminal UI (Ink), a CLI and an MCP server any agent can query, next to the state of my services, containers and databases. Local and read-only: nothing leaves the machine.
-
-<sub>TypeScript · Fastify · React · Ink · MCP · SQLite · Docker</sub>
-</details>
 
 <details>
 <summary><b>🔐 Tamper-evident audit framework</b> · A hash-chained event log nobody, admins included, can quietly rewrite.</summary>
@@ -289,7 +329,9 @@ My own AI control suite. It reads the local records of Claude Code, Codex CLI, G
 
 An isolated service other apps (SSO, CRM, internal tools) send their events to, so nobody, admins included, can quietly rewrite history. FastAPI ingestion → stream queue → worker that hash-chains every event → immutable store, synced to a read-only PostgreSQL copy for dashboards, plus an integrity checker that alerts on any mismatch.
 
-<sub>FastAPI · Valkey Streams · immudb · PostgreSQL · Superset</sub>
+The immutable store is [immudb](https://immudb.io/), an append-only database: records can be added but never updated or deleted, every key keeps its full history, and each entry comes with a cryptographic proof that a client can verify by itself. For traceability, that means every event keeps a who, what and when that can be checked later, and a past record can't change without the mismatch showing: evidence that holds up in an audit instead of a log you have to trust.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white) ![Valkey Streams](https://img.shields.io/badge/Valkey%20Streams-%236983FF.svg?style=flat) ![immudb](https://img.shields.io/badge/immudb-%230F6BFF.svg?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white) ![Superset](https://img.shields.io/badge/Superset-%2320A6C9.svg?style=flat&logo=apachesuperset&logoColor=white)
 </details>
 
 <details>
@@ -298,7 +340,7 @@ An isolated service other apps (SSO, CRM, internal tools) send their events to, 
 
 Spots stocks trading near historical lows and alerts me on Telegram. Signals are checked with a point-in-time backtest (no look-ahead, no survivorship bias) and the engine is covered by 300+ tests.
 
-<sub>Python · Flask · PostgreSQL · pytest · Telegram</sub>
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=flat&logo=pytest&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat&logo=telegram&logoColor=white)
 </details>
 
 #### 📱 Apps
@@ -309,7 +351,7 @@ Spots stocks trading near historical lows and alerts me on Telegram. Signals are
 
 A Pokédex for planes: point your phone at the sky and identify the aircraft flying over you, using live ADS-B data, the camera and device sensors. Offline-first, so your collection survives with no signal.
 
-<sub>Expo · React Native · SQLite</sub>
+![Expo](https://img.shields.io/badge/Expo-%23000020.svg?style=flat&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white)
 </details>
 
 <details>
@@ -318,7 +360,7 @@ A Pokédex for planes: point your phone at the sky and identify the aircraft fly
 
 A fitness diary with anime gamification: log steps, calories, protein, water, weight and workouts, find out which anime character archetype matches your body composition (FFMI + body fat), and see the positive and negative routes your habits lead to. [Live demo](https://anifit-livid.vercel.app/).
 
-<sub>FastAPI · PostgreSQL · React · Vite · TailwindCSS</sub>
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 </details>
 
 <div align="center">
