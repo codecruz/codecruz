@@ -56,12 +56,14 @@
       <a href="https://www.npmjs.com/package/spain-postal-codes">
         <img src="https://img.shields.io/npm/v/spain-postal-codes?style=for-the-badge&logo=npm&logoColor=white&label=npm&color=CB3837" alt="spain-postal-codes on npm">
       </a>
+      <a href="https://www.npmjs.com/package/spain-postal-codes">
+        <img src="https://img.shields.io/npm/dm/spain-postal-codes?style=for-the-badge&logo=npm&logoColor=white&label=downloads&color=CB3837" alt="spain-postal-codes npm downloads per month">
+      </a>
       <a href="https://packagist.org/packages/codecruz/spain-postal-codes">
         <img src="https://img.shields.io/packagist/v/codecruz/spain-postal-codes?style=for-the-badge&logo=packagist&logoColor=white&label=packagist&color=F28D1A" alt="codecruz/spain-postal-codes on Packagist">
       </a>
       <br/>
       <img src="https://img.shields.io/badge/Status-🟢%20Published-2EA043?style=flat-square">
-      <img src="https://img.shields.io/npm/dm/spain-postal-codes?style=flat-square" alt="npm downloads per month">
       <img src="https://img.shields.io/badge/data-CC%20BY%204.0-green?style=flat-square">
       <img src="https://img.shields.io/badge/code-MIT-blue?style=flat-square">
       <p>
