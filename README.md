@@ -61,6 +61,7 @@
       </a>
       <br/>
       <img src="https://img.shields.io/badge/Status-🟢%20Published-2EA043?style=flat-square">
+      <img src="https://img.shields.io/npm/dm/spain-postal-codes?style=flat-square" alt="npm downloads per month">
       <img src="https://img.shields.io/badge/data-CC%20BY%204.0-green?style=flat-square">
       <img src="https://img.shields.io/badge/code-MIT-blue?style=flat-square">
       <p>
