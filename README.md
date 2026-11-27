@@ -429,11 +429,11 @@ A fitness diary with anime gamification: log steps, calories, protein, water, we
 <!--START_SECTION:langstats-->
 
 ```txt
-JavaScript                      🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌱·············   46.27 %
-TypeScript                      🌸🌸🌸🌸🌸🌸🌸🌸🌸················   35.14 %
-HTML                            🌸🌸🌱······················   10.42 %
-Astro                           🌸························   04.84 %
-CSS                             🌸························   03.33 %
+JavaScript                      🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌱··········   57.22 %
+TypeScript                      🌸🌸🌸🌸🌸····················   20.15 %
+HTML                            🌸🌸🌸······················   13.00 %
+Astro                           🌸🌱·······················   06.16 %
+CSS                             🌸························   03.47 %
 ```
 
 <!--END_SECTION:langstats-->
